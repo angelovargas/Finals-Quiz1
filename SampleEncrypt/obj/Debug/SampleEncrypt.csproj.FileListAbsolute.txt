@@ -1,0 +1,9 @@
+C:\Users\ADVE\Documents\Visual Studio 2012\Projects\SampleEncrypt\SampleEncrypt\bin\Debug\SampleEncrypt.exe.config
+C:\Users\ADVE\Documents\Visual Studio 2012\Projects\SampleEncrypt\SampleEncrypt\bin\Debug\SampleEncrypt.exe
+C:\Users\ADVE\Documents\Visual Studio 2012\Projects\SampleEncrypt\SampleEncrypt\bin\Debug\SampleEncrypt.pdb
+C:\Users\ADVE\Documents\Visual Studio 2012\Projects\SampleEncrypt\SampleEncrypt\obj\Debug\SampleEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\ADVE\Documents\Visual Studio 2012\Projects\SampleEncrypt\SampleEncrypt\obj\Debug\SampleEncrypt.Form1.resources
+C:\Users\ADVE\Documents\Visual Studio 2012\Projects\SampleEncrypt\SampleEncrypt\obj\Debug\SampleEncrypt.Properties.Resources.resources
+C:\Users\ADVE\Documents\Visual Studio 2012\Projects\SampleEncrypt\SampleEncrypt\obj\Debug\SampleEncrypt.csproj.GenerateResource.Cache
+C:\Users\ADVE\Documents\Visual Studio 2012\Projects\SampleEncrypt\SampleEncrypt\obj\Debug\SampleEncrypt.exe
+C:\Users\ADVE\Documents\Visual Studio 2012\Projects\SampleEncrypt\SampleEncrypt\obj\Debug\SampleEncrypt.pdb
